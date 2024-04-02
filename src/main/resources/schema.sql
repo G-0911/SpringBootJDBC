@@ -1,0 +1,1 @@
+create table jdbc_template(id int,name varchar(250),mark int);
